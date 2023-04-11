@@ -13,16 +13,16 @@ console.log(paki);
       console.log(num1+num2);
       return
  }                              // return but no value
-  const result= add(65,75);
- console.log(result);
+  const result1= add(65,75);
+ console.log(result1);
 
 
  function add(num1,num2){
    console.log(num1,num2);
   
  }                              //value no pass
- const result= add(65);
- console.log(result);
+ const result2= add(65);
+ console.log(result2);
   
   
  const premik={name:"abdul",phone:564789}; // call deffrent objects console.log(premik.gf);
