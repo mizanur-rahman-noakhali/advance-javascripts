@@ -1,6 +1,6 @@
 let bonus=20;//global variable
 function sum(first,second){             //let,const scope variable                                        //
-  const result=first+second+bonus;      // var hoest variable,block 
+  const result=first+second+bonus;      // var hoisting variable,block 
   console.log(bonus);                   // block ar bahire lick kore.
   
   return result
